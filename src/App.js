@@ -29,8 +29,6 @@ const reducer = (state, action) => {
       playerTotal = getTotal(playerCards);
       dealerTotal = getTotal(dealerCards);
 
-      var a = { j1: 1, k2: 2 }
-      var b = { j1: 1, j2: 2 }
       state = {
         ...state,
         deck,
