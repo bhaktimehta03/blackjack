@@ -1,3 +1,9 @@
+# Screen Shots
+![Screen Shot1](screenshots/blackjack1.png)
+![Screen Shot1](screenshots/blackjack2.png)
+![Screen Shot1](screenshots/blackjack3.png)
+![Screen Shot1](screenshots/blackjack4.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
